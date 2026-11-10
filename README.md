@@ -105,6 +105,7 @@ We found no official GlossGenius app in ChatGPT's directory or connector in Clau
 
 - [GlossGenius on Cotlet.dev](https://cotlet.dev/integrations/glossgenius-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=glossgenius&utm_content=find)
 - [PyPI package glossgenius-mcp](https://pypi.org/project/glossgenius-mcp/)
+- [Odel](https://odel.app/modules/cotlet/glossgenius)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-glossgenius-to-ai-agents-guide)
 
 ## Also works with
